@@ -70,6 +70,7 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/> React  
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/> HTML  
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/> CSS  
+          <img src="https://github.com/user-attachments/assets/18c25cb9-f147-449f-9cf8-6da54234617f" width="30" /> Tailwind
         </li>
         <li>
           <b>Databases:</b>  
